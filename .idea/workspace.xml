@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abf04388-caca-4eca-90e7-bb868d88fbab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1h8cWWIpWtAcaecz1EHkh4BHJ1C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/App" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestPesel" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="TestPesel" file="$PROJECT_DIR$/tests/unit/PeselTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.TestPesel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abf04388-caca-4eca-90e7-bb868d88fbab" name="Default Changelist" comment="" />
+      <created>1599396194110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599396194110</updated>
+      <workItem from="1599396195639" duration="10354000" />
+      <workItem from="1599416651737" duration="7893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="843" y="189" width="623" height="702" key="#PHP" timestamp="1599404083749">
+      <screen x="0" y="41" width="1920" height="1080" />
+    </state>
+    <state x="843" y="189" width="623" height="702" key="#PHP/1920.0.1920.1080/0.41.1920.1080@0.41.1920.1080" timestamp="1599404083749" />
+    <state x="618" y="182" width="1084" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599404085504">
+      <screen x="0" y="41" width="1920" height="1080" />
+    </state>
+    <state x="618" y="182" width="1084" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.41.1920.1080@0.41.1920.1080" timestamp="1599404085504" />
+    <state x="1174" y="385" width="502" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599397762755">
+      <screen x="0" y="41" width="1920" height="1080" />
+    </state>
+    <state x="1174" y="385" width="502" height="385" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.41.1920.1080@0.41.1920.1080" timestamp="1599397762755" />
+    <state x="1179" y="362" width="482" height="427" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599401743975">
+      <screen x="0" y="41" width="1920" height="1080" />
+    </state>
+    <state x="1179" y="362" width="482" height="427" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1080/0.41.1920.1080@0.41.1920.1080" timestamp="1599401743975" />
+    <state x="1248" y="507" width="354" height="142" key="NewPhpFileDialog" timestamp="1599405796327">
+      <screen x="0" y="41" width="1920" height="1080" />
+    </state>
+    <state x="1248" y="507" width="354" height="142" key="NewPhpFileDialog/1920.0.1920.1080/0.41.1920.1080@0.41.1920.1080" timestamp="1599405796327" />
+  </component>
+</project>
